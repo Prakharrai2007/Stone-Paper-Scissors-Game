@@ -1,4 +1,4 @@
-# Number guessing game and this is my 2nd code
+# Number guessing game 
 
 import random 
 
